@@ -2,9 +2,7 @@ package main.java;
 
 import java.util.HashMap;
 
-/**
- * Created by b029975 on 2/15/2016.
- */
+
 public class StringMap {
 
     private HashMap<String, Integer> integerStrings = new HashMap<>();
