@@ -3,9 +3,6 @@ package main.java;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by b029975 on 2/15/2016.
- */
 public class RightToLeft implements  CalculateString {
 
     StringMap stringMap = new StringMap();
