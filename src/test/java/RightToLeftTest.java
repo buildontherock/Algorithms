@@ -5,7 +5,7 @@ import main.java.RightToLeft;
 import org.junit.Test;
 
 /**
- * Created by B029975 on 2/15/2016.
+ * Created by Austin Burkhart on 2/15/2016.
  */
 public class RightToLeftTest {
 
